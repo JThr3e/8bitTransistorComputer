@@ -4249,7 +4249,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "19ad8f0b-1c4c-42a5-872a-fc53d4d1396c")
-		(at 71.64 31.295948 180)
+		(at 91.14 29.226224 180)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R3"
@@ -6358,7 +6358,7 @@
 		(descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
 		(tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
 		(property "Reference" "Q11"
-			(at 1.27 -3.56 270)
+			(at 1.27 -3.56 -90)
 			(layer "F.SilkS")
 			(uuid "b787a8f2-34f0-4daf-86cb-b0c15a7bed23")
 			(effects
@@ -6369,7 +6369,7 @@
 			)
 		)
 		(property "Value" "2N7000"
-			(at 1.27 2.79 270)
+			(at 1.27 2.79 -90)
 			(layer "F.Fab")
 			(uuid "4fee3756-bf0b-4a90-bc23-b99d6a219913")
 			(effects
@@ -6525,7 +6525,7 @@
 			(uuid "77ef8def-6eea-40c3-8afe-bc011633bce1")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 270)
+			(at 1.27 0 -90)
 			(layer "F.Fab")
 			(uuid "754c9761-0b91-47ef-9b0c-06517aa491c8")
 			(effects
@@ -9608,7 +9608,7 @@
 		(descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
 		(tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
 		(property "Reference" "Q12"
-			(at 1.27 -3.56 270)
+			(at 1.27 -3.56 -90)
 			(layer "F.SilkS")
 			(uuid "97e25127-db6a-4825-93da-840f7cd381b6")
 			(effects
@@ -9619,7 +9619,7 @@
 			)
 		)
 		(property "Value" "2N7000"
-			(at 1.27 2.79 270)
+			(at 1.27 2.79 -90)
 			(layer "F.Fab")
 			(uuid "da96f04d-1389-498b-9303-6c810c40acf5")
 			(effects
@@ -9775,7 +9775,7 @@
 			(uuid "83399f5d-79e1-4edd-b3e3-a925f2993ef1")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 270)
+			(at 1.27 0 -90)
 			(layer "F.Fab")
 			(uuid "99653a47-7cf1-4197-98fa-b984bfc5c78d")
 			(effects
@@ -9833,7 +9833,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "436ca859-db18-4436-83d2-77442233223f")
-		(at 71.64 45.99378 180)
+		(at 91.14 43.924056 180)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R4"
@@ -11375,7 +11375,7 @@
 			)
 		)
 		(property "Value" "2N7000"
-			(at 1.27 2.79 270)
+			(at 1.27 2.79 -90)
 			(layer "F.Fab")
 			(uuid "c50260a2-a7e8-4bc5-9661-a2cb130b732c")
 			(effects
@@ -11531,7 +11531,7 @@
 			(uuid "cd17ac71-9562-4c6e-8063-732473452629")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 270)
+			(at 1.27 0 -90)
 			(layer "F.Fab")
 			(uuid "c1a475fc-e9ee-4096-bd4b-bddf42df2de4")
 			(effects
@@ -12276,11 +12276,11 @@
 	(footprint "Package_TO_SOT_THT:TO-92_Inline"
 		(layer "F.Cu")
 		(uuid "5769b997-9f0a-4868-b5a2-5132f61f4f79")
-		(at 72 57.655668 90)
+		(at 91.5 55.585944 90)
 		(descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
 		(tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
 		(property "Reference" "Q8"
-			(at 1.27 -3.56 270)
+			(at 1.27 -3.56 -90)
 			(layer "F.SilkS")
 			(uuid "b0a40f0a-3e50-4ff1-968c-443b49ac8cc0")
 			(effects
@@ -12291,7 +12291,7 @@
 			)
 		)
 		(property "Value" "2N7000"
-			(at 1.27 2.79 270)
+			(at 1.27 2.79 -90)
 			(layer "F.Fab")
 			(uuid "ccbaf085-b9c8-4399-a2a3-14344ed03953")
 			(effects
@@ -12447,7 +12447,7 @@
 			(uuid "6e91e83d-8e01-48a3-8383-dab4d295f0fb")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 270)
+			(at 1.27 0 -90)
 			(layer "F.Fab")
 			(uuid "51419468-53cf-45a9-8d8a-d0096f9d30ac")
 			(effects
@@ -15301,7 +15301,7 @@
 		(descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
 		(tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
 		(property "Reference" "Q2"
-			(at 1.27 -3.56 270)
+			(at 1.27 -3.56 -90)
 			(layer "F.SilkS")
 			(uuid "ef944e54-d47f-4c8a-a134-75abb40db3b8")
 			(effects
@@ -15312,7 +15312,7 @@
 			)
 		)
 		(property "Value" "2N7000"
-			(at 1.27 2.79 270)
+			(at 1.27 2.79 -90)
 			(layer "F.Fab")
 			(uuid "18c3cd2a-d347-4232-ae55-1b863e46ee89")
 			(effects
@@ -15468,7 +15468,7 @@
 			(uuid "8b1b6913-fbae-49c2-a61e-2211b79cc259")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 270)
+			(at 1.27 0 -90)
 			(layer "F.Fab")
 			(uuid "061dcf0b-54dc-4fb0-85bf-5929fc173023")
 			(effects
@@ -15755,11 +15755,11 @@
 	(footprint "Package_TO_SOT_THT:TO-92_Inline"
 		(layer "F.Cu")
 		(uuid "689b01f3-f1b3-41b6-b652-d88d7a39c127")
-		(at 72 74.625948 90)
+		(at 84.5 78.625948 90)
 		(descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
 		(tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
 		(property "Reference" "Q10"
-			(at 1.27 -3.56 270)
+			(at 1.27 -3.56 -90)
 			(layer "F.SilkS")
 			(uuid "de1961c3-4be5-4f37-831e-f7fb9588d47a")
 			(effects
@@ -15770,7 +15770,7 @@
 			)
 		)
 		(property "Value" "2N7000"
-			(at 1.27 2.79 270)
+			(at 1.27 2.79 -90)
 			(layer "F.Fab")
 			(uuid "5215145d-aaad-483b-8c81-dd871e77f11d")
 			(effects
@@ -15926,7 +15926,7 @@
 			(uuid "12a742c4-6fbc-4ad8-8926-c4f580731d36")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 270)
+			(at 1.27 0 -90)
 			(layer "F.Fab")
 			(uuid "e70570a7-1cff-495f-abd6-cb23a43d6a5e")
 			(effects
@@ -17320,11 +17320,11 @@
 	(footprint "Package_TO_SOT_THT:TO-92_Inline"
 		(layer "F.Cu")
 		(uuid "7077fe7a-d16d-41e9-b769-bce32dec1270")
-		(at 72 42.957836 90)
+		(at 91.5 40.888112 90)
 		(descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
 		(tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
 		(property "Reference" "Q6"
-			(at 1.27 -3.56 270)
+			(at 1.27 -3.56 -90)
 			(layer "F.SilkS")
 			(uuid "67101234-c2e2-47d9-9b99-3a2ec47313a0")
 			(effects
@@ -17335,7 +17335,7 @@
 			)
 		)
 		(property "Value" "2N7000"
-			(at 1.27 2.79 270)
+			(at 1.27 2.79 -90)
 			(layer "F.Fab")
 			(uuid "1ff9a662-1e46-4fd8-a0c3-caf3872fd842")
 			(effects
@@ -17491,7 +17491,7 @@
 			(uuid "cb3be420-e8a7-465f-8dfd-1a2819a50316")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 270)
+			(at 1.27 0 -90)
 			(layer "F.Fab")
 			(uuid "7691a85f-d338-45ef-a64d-dbd16472c436")
 			(effects
@@ -22994,11 +22994,11 @@
 	(footprint "Package_TO_SOT_THT:TO-92_Inline"
 		(layer "F.Cu")
 		(uuid "8cdfac5b-cd0b-488c-bcf5-8cce5fa78bdf")
-		(at 72 68.54 90)
+		(at 84.5 72.54 90)
 		(descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
 		(tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
 		(property "Reference" "Q9"
-			(at 1.27 -3.56 270)
+			(at 1.27 -3.56 -90)
 			(layer "F.SilkS")
 			(uuid "17b5e53d-a799-4418-921a-3f660c47bf70")
 			(effects
@@ -23009,7 +23009,7 @@
 			)
 		)
 		(property "Value" "2N7000"
-			(at 1.27 2.79 270)
+			(at 1.27 2.79 -90)
 			(layer "F.Fab")
 			(uuid "6911cfdf-da76-4a43-bd93-368c75f28d94")
 			(effects
@@ -23165,7 +23165,7 @@
 			(uuid "31898764-677f-4238-8861-108a8e14ae46")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 270)
+			(at 1.27 0 -90)
 			(layer "F.Fab")
 			(uuid "0ba1a2c4-7ccb-4721-8a6d-9ccd98e8082e")
 			(effects
@@ -25767,11 +25767,11 @@
 	(footprint "Package_TO_SOT_THT:TO-92_Inline"
 		(layer "F.Cu")
 		(uuid "9d1842ef-bd85-455f-b8c5-567457f82475")
-		(at 72 36.871892 90)
+		(at 91.5 34.802168 90)
 		(descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
 		(tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
 		(property "Reference" "Q5"
-			(at 1.27 -3.56 270)
+			(at 1.27 -3.56 -90)
 			(layer "F.SilkS")
 			(uuid "6661e5dd-0260-42ed-844c-eb2a273bdeed")
 			(effects
@@ -25782,7 +25782,7 @@
 			)
 		)
 		(property "Value" "2N7000"
-			(at 1.27 2.79 270)
+			(at 1.27 2.79 -90)
 			(layer "F.Fab")
 			(uuid "e1c13674-3a93-4ef7-a03b-2625e0d966fd")
 			(effects
@@ -25938,7 +25938,7 @@
 			(uuid "a6769926-085a-493d-a187-5db45ef706ac")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 270)
+			(at 1.27 0 -90)
 			(layer "F.Fab")
 			(uuid "1b868623-54ff-49b9-ac64-5d3c62a71c61")
 			(effects
@@ -29962,7 +29962,7 @@
 		(descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
 		(tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
 		(property "Reference" "Q13"
-			(at 1.27 -3.56 270)
+			(at 1.27 -3.56 -90)
 			(layer "F.SilkS")
 			(uuid "232394d8-2d96-4073-8531-3deec1803ee6")
 			(effects
@@ -29973,7 +29973,7 @@
 			)
 		)
 		(property "Value" "2N7000"
-			(at 1.27 2.79 270)
+			(at 1.27 2.79 -90)
 			(layer "F.Fab")
 			(uuid "5bce3c65-b232-429c-b748-368132f3ca3d")
 			(effects
@@ -30129,7 +30129,7 @@
 			(uuid "339ce4f9-89c9-4ac1-8372-775d0bd0488b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 270)
+			(at 1.27 0 -90)
 			(layer "F.Fab")
 			(uuid "fd535a32-7cd5-4cfe-be11-fd719b6fea2a")
 			(effects
@@ -33418,11 +33418,11 @@
 	(footprint "Package_TO_SOT_THT:TO-92_Inline"
 		(layer "F.Cu")
 		(uuid "d1ca40a1-4091-4df9-8ae2-f2e7e6b41d59")
-		(at 72 51.569724 90)
+		(at 91.5 49.5 90)
 		(descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
 		(tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
 		(property "Reference" "Q7"
-			(at 1.27 -3.56 270)
+			(at 1.27 -3.56 -90)
 			(layer "F.SilkS")
 			(uuid "3c4a0bf6-b62a-4c6c-a262-bb567a8aed2e")
 			(effects
@@ -33433,7 +33433,7 @@
 			)
 		)
 		(property "Value" "2N7000"
-			(at 1.27 2.79 270)
+			(at 1.27 2.79 -90)
 			(layer "F.Fab")
 			(uuid "dbeed164-e1ba-4e01-9906-6f04f3bb93c0")
 			(effects
@@ -33589,7 +33589,7 @@
 			(uuid "5c6d6d8e-8f49-4efe-97fe-afadb7e62fec")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 270)
+			(at 1.27 0 -90)
 			(layer "F.Fab")
 			(uuid "3efb1cf8-b7f7-49c4-8132-3edbc39aec3b")
 			(effects
@@ -36859,7 +36859,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "e4d68553-1b3d-401e-b08b-a97887a34985")
-		(at 71.64 62.964056 180)
+		(at 84.14 66.964056 180)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R5"
@@ -38428,7 +38428,7 @@
 		(descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
 		(tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
 		(property "Reference" "Q1"
-			(at 1.27 -3.56 270)
+			(at 1.27 -3.56 -90)
 			(layer "F.SilkS")
 			(uuid "e17d1c18-6529-4b0a-b03a-ece487239121")
 			(effects
@@ -38439,7 +38439,7 @@
 			)
 		)
 		(property "Value" "2N7000"
-			(at 1.27 2.79 270)
+			(at 1.27 2.79 -90)
 			(layer "F.Fab")
 			(uuid "2e16cafc-36ec-42a6-adad-23a573fe3b23")
 			(effects
@@ -38595,7 +38595,7 @@
 			(uuid "d7d962a8-09a5-4ea4-b81f-9b79199e3e7a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 270)
+			(at 1.27 0 -90)
 			(layer "F.Fab")
 			(uuid "210cc133-5f13-42b7-aabe-d8ebcf8c78bd")
 			(effects
@@ -38657,7 +38657,7 @@
 		(descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
 		(tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
 		(property "Reference" "Q4"
-			(at 1.27 -3.56 270)
+			(at 1.27 -3.56 -90)
 			(layer "F.SilkS")
 			(uuid "862995a5-938d-4afd-90e4-bac7a2ecfc93")
 			(effects
@@ -38668,7 +38668,7 @@
 			)
 		)
 		(property "Value" "2N7000"
-			(at 1.27 2.79 270)
+			(at 1.27 2.79 -90)
 			(layer "F.Fab")
 			(uuid "9d46d5f7-de05-4bf1-9a8a-1445f6f16077")
 			(effects
@@ -38824,7 +38824,7 @@
 			(uuid "ad163c87-cdb3-4e3a-8477-eaf776f1880b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 270)
+			(at 1.27 0 -90)
 			(layer "F.Fab")
 			(uuid "c577fd86-5d11-4e06-af0a-c7ee0a4125d1")
 			(effects
@@ -42203,7 +42203,7 @@
 	(footprint "Package_TO_SOT_THT:TO-92_Inline"
 		(layer "F.Cu")
 		(uuid "fdb62d65-1da2-4415-94ce-5482e8781568")
-		(at 82 52.5)
+		(at 101.5 50.430276)
 		(descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
 		(tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
 		(property "Reference" "Q14"
